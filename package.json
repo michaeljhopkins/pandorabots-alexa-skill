@@ -1,0 +1,27 @@
+{
+  "name": "pandorabots-alexa",
+  "version": "0.0.0",
+  "description": "An Amazon Alexa skill to interact with Pandorabots. Base project forked from https://github.com/MaxwellPayne/urbandictionary-alexa",
+  "author": "Michael Hopkins",
+  "homepage": "https://github.com/michaeljhopkins/pandorabots-alexa-skill",
+  "scripts": {
+  },
+  "dependencies": {
+    "config" : "1.16.0",
+    "alexa-app" : "2.2.0",
+    "pb-node": "^2.0.1",
+    "querystring": "^0.2.0",
+    "scoped-http-client": "^0.11.0",
+    "ssml": "0.0.3",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.15"
+  },
+
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.8.0",
+    "npm": "^2.8.3"
+  }
+
+}

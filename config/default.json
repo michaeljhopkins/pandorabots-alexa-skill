@@ -1,0 +1,11 @@
+{
+	"Amazon" : {
+		"lambda-arn" : "YOUR ARN HERE",
+	},
+	"Pb": {
+		"url": "https://aiaas.pandorabots.com",
+		"app_id": "************",
+		"user_key": "**********",
+		"botname": "**********"
+	},
+}
